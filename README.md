@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed Sherif</h1>
-<h3 align="center">Mobile Developer (Flutter - Android)</h3>
+<h3 align="center">Mobile App Developer (Flutter - Android)</h3>
 
 - 🌱 I’m currently learning **Developing android apps with kotlin**
 
