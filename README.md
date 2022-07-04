@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmed Sherif</h1>
 <h3 align="center">Mobile Developer (Flutter - Android)</h3>
 
-- 🌱 I’m currently learning **Developing android with kotlin**
+- 🌱 I’m currently learning **Developing android apps with kotlin**
 
 - 📫 How to reach me **ahmed.sherif701@gmail.com**
 
